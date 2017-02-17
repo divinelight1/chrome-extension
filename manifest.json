@@ -1,0 +1,12 @@
+
+{
+
+	"name" : "youtube iframe",
+	"version" : "1.0.0",
+	"manifest_version" : 2,
+	"description" : "youtube iframe (have your music within every tab",
+	"browser_action" : {
+		"default_icon" : "icon.png"
+	}
+
+}
